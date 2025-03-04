@@ -259,6 +259,7 @@
         "ck.ads.oppomobile.com",
         "click.googleanalytics.com",
         "click.oneplus.cn",
+        "client.app.coc.10086.cn",
         "clog.miguvideo.com",
         "cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com",
         "cn-api.anythinktech.com",
